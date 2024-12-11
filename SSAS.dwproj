@@ -52,10 +52,6 @@
   </DataSources>
   <DataSourceViews>
     <ProjectItem>
-      <Name>Projects DW.dsv</Name>
-      <FullPath>Projects DW.dsv</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Projects DW 1.dsv</Name>
       <FullPath>Projects DW 1.dsv</FullPath>
     </ProjectItem>
